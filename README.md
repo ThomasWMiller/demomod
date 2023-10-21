@@ -1,5 +1,6 @@
 # demomod
-Set up local modules and packages
+#### Set up Local Modules and Packages in Go
+
 Most Go textbooks show how to work with packages from the standard library as well as third-party packages available on public repositories. 
 
 Curiously, they do not show how to work with local packages.
